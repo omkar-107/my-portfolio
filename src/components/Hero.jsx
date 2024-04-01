@@ -23,7 +23,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="my-16 px-5 md:my-32 flex flex-col md:flex-row items-center gap-12">
+    <section className="my-6 px-5 md:my-32 flex flex-col md:flex-row items-center gap-12">
       {/* Animation Container */}
       <div className="w-full md:w-1/2">
         <div className="container mx-auto" ref={container}></div>
