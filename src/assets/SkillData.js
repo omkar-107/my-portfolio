@@ -61,9 +61,13 @@ const Familiar = [
         logo: "./images/icons/linux-icon.svg"
     },
     {
-        skill: "Google Cloud Platform",
+        skill: "GCP",
         logo: "./images/icons/google_cloud-icon.svg"
     },
+    {
+        skill: "Docker",
+        logo: "./images/icons/docker-svgrepo-com.svg"
+    }
     
 ]
 export { Proficient, Familiar }
