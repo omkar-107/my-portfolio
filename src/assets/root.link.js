@@ -1,10 +1,3 @@
-export const RESUME_PATH = 'https://drive.google.com/';
-export const GITHUB_USERNAME = 'codewithvk';
-export const LINKEDIN_USERNAME = 'vivekkumarjaviya';
-export const FIRST_NAME = 'Vivekkumar';
-export const LAST_NAME = 'Javiya';
-export const ADDRESS = 'Rajkot, Gujrat'
-export const EMAIL_ID = 'work.vivekjaviya@gmail.com';
-export const TWITTER_ID = 'Vk_javiya';
-export const FRONT_PAGE_NAME = 'Omkar ';
-export const FRONT_PAGE_DESC = 'A Full-Stack Web Developer & Open Source Contributor.I like to build things for web and solving problems.'
+export const RESUME_PATH = 'https://drive.google.com/file/d/1tfSQhepRLTZ37Kn90aseeqR3onlxMHlN/view?usp=drive_link';
+export const GITHUB_USERNAME = 'omkar-107';
+export const LINKEDIN_USERNAME = 'omkar-salunkhe-bb912a256';

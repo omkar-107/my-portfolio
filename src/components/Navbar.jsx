@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { RESUME_PATH } from '../assets/root.link';
 const Navbar = () => {
   return (
     <nav className='my-0 space-x-4 md:space-x-10 text-white font-roboto flex flex-col md:flex-row justify-between items-center'>
@@ -29,7 +29,7 @@ const Navbar = () => {
             </a>
           </li>
           <li>
-            <a href="#" target='_blank' rel='noreferrer' className='block md:inline py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
+            <a href={RESUME_PATH} target='_blank' rel='noreferrer' className='block md:inline py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
               Resume
             </a>
           </li>

@@ -36,8 +36,8 @@ const Hero = () => {
         </h1>
 
         <p className="text-slate-300 tracking-wide leading-relaxed">
-         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum nam facere perspiciatis accusantium provident blanditiis mollitia quisquam? Dolorum a voluptas rem corrupti quibusdam. Distinctio quisquam ipsam nisi quaerat aliquam assumenda sed alias aut in dignissimos voluptates odio rerum facilis, veritatis magnam perferendis sint similique voluptas non perspiciatis? Minima, illum hic.
-        </p>
+        I am a MERN stack and Swift UI developer with a passion for creating dynamic and responsive applications. Eager to learn and adapt to new technologies and frameworks, I thrive in collaborative environments. My experience includes working with MongoDB, Express, React, Node.js, and Swift UI, and I am excited to work with others to develop innovative and engaging applications.
+         </p>
       </div>
     </section>
   );
